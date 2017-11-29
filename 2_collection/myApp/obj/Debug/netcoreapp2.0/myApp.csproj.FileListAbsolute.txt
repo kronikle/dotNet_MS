@@ -28,3 +28,13 @@
 /Users/samuele/Documents/dotNet/2_collection/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
 /Users/samuele/Documents/dotNet/2_collection/myApp/obj/Debug/netcoreapp2.0/myApp.dll
 /Users/samuele/Documents/dotNet/2_collection/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/2_collection/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/2_collection/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/2_collection/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/2_collection/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/2_collection/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/2_collection/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/2_collection/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/2_collection/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/2_collection/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/2_collection/myApp/obj/Debug/netcoreapp2.0/myApp.pdb

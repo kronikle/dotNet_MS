@@ -1,0 +1,10 @@
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/5_classes/classes/obj/Debug/netcoreapp2.0/classes.csproj.CoreCompileInputs.cache
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/5_classes/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfoInputs.cache
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/5_classes/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfo.cs
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/5_classes/classes/bin/Debug/netcoreapp2.0/classes.deps.json
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/5_classes/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.json
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/5_classes/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.dev.json
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/5_classes/classes/bin/Debug/netcoreapp2.0/classes.dll
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/5_classes/classes/bin/Debug/netcoreapp2.0/classes.pdb
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/5_classes/classes/obj/Debug/netcoreapp2.0/classes.dll
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/5_classes/classes/obj/Debug/netcoreapp2.0/classes.pdb

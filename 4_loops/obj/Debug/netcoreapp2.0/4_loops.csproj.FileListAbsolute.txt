@@ -1,0 +1,10 @@
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/4_loops/bin/Debug/netcoreapp2.0/4_loops.deps.json
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/4_loops/bin/Debug/netcoreapp2.0/4_loops.runtimeconfig.json
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/4_loops/bin/Debug/netcoreapp2.0/4_loops.runtimeconfig.dev.json
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/4_loops/bin/Debug/netcoreapp2.0/4_loops.dll
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/4_loops/bin/Debug/netcoreapp2.0/4_loops.pdb
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/4_loops/obj/Debug/netcoreapp2.0/4_loops.csproj.CoreCompileInputs.cache
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/4_loops/obj/Debug/netcoreapp2.0/4_loops.AssemblyInfoInputs.cache
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/4_loops/obj/Debug/netcoreapp2.0/4_loops.AssemblyInfo.cs
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/4_loops/obj/Debug/netcoreapp2.0/4_loops.dll
+/Users/samuele/Documents/Corsi On-line/dotNet_MS-tut/4_loops/obj/Debug/netcoreapp2.0/4_loops.pdb
